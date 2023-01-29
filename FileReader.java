@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 
 public class FileReader {
 
-    private static final String FILE_PATH = "Airportle/Airportle.txt";
+    private static final String FILE_PATH = "Airportle.txt";
     private String computerString;
 
     public static Scanner openFileForReading(File f) {
