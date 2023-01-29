@@ -1,0 +1,100 @@
+DEN/Denver International Airport/north america
+DFW/Dallas Fort-Worth International Airport/north america
+MCO/Orlando International Airport/north america
+IAD/Washington Dulles International Airport/north america
+IAH/George Bush Intercontinental/national Airport/north america
+SLC/Salt Lake City International Airport/north america
+ORD/O'Hare International Airport/northamerica
+SFO/San Francisco International Airport/north america
+JFK/John F. Kennedy International Airport/north america
+DTW/Detroit Metropolitan Airport/north america
+YYC/Calgary International Airport/north america
+YEG/Edmonton International Airport/north america
+YUL/Montreal-Trudeau International Airport/north america
+YOW/Ottawa Macdonald-Cartier International Airport/north america
+YYZ/Toronto Pearson International Airport/north america
+MEX/Mexico City International Airport/north america
+CUN/Cancun International Airport/north america
+GDL/Miguel Hidalgo y Costilla International Airport/north america
+HMO/Hermosillo Airport/north america
+CZM/Cozumel International Airport/north america
+GRU/Sao Paulo-Guarulhos International Airport/south america
+BOG/El Dorado International Airport/south america
+SCL/Comodoro Arturo Merino Benitez International Airport/south america
+LIM/Jorge Chavez International Airport/south america
+GIG/Rio de Janeiro=Galeao International Airport/south america
+PTY/Tocumen International Airport/south america
+AEP/Aeroparque Jorge Newbery/south america
+MUN/Maturin Airport/south america
+CUZ/Alejandro Velasco Astete International Airport/south america
+COR/Ingeniero Ambrosio Taravella Airport/south america
+IQT/Coronel FAP Francisco Secada Vignetta International Airport/south america
+MVD/arrasco International Airport/south america
+UIO/Mariscal Sucre Quito International Airport/south america
+LPB/El Alto International Airport/south america
+ASU/Silvio Pettirossi International Airport/south america
+BSB/Brasilia International Airport/south america
+CLO/Alfonso Bonilla Aragon International Airport/south america
+POA/Salgado Filho Porto Alegre International Airport/south america
+CTG/Rafael Nunez International Airport/south america
+CCS/Maiquetia International Airport/south america
+LHR/Heathrow Airport/europe
+CDG/Charles de Gaulle International Airport/europe
+AMS/Amsterdam Airport Schiphol/europe
+FRA/Frankfurt am Main International Airport/europe
+IST/Istanbul Ataturk Airport/europe
+MAD/Adolfo Suarez Madrid-Baraz Airport/europe
+BCN/Barcelona-El Prat Airport/europe
+LGW/Gatwick Airport/europe
+MUC/Munich Airport/europe
+FCO/Leonardo da Vinci-Fiumicino Airport/europe
+SVO/Sheremeteyevo International Airport/europe
+SAW/Sabiha Gokcen International Airport/europe
+DME/Moscow Domodedovo Airport/europe
+DUB/Dublin Airport/europe
+ZRH/urich Airport/europe
+CPH/Copenhagen Airport/europe
+PMI/Palma de Mallorca Airport/europe
+MAN/Manchester Airport/europe
+OSL/Oslo Airport, Gardermoen/europe
+LIS/Lisbon Portela Airport/europe
+ARN/Stockholm Arlanda Airport/europe
+AYT/Antalya Airport/europe
+STN/London Stansted Airport/europe
+BRU/Brussels Airport/europe
+DUS/Dusseldorf International Airport/europe
+VIE/Vienna International Airport/europe
+MXP/Milan-Malpensa Airport/europe
+ATH/Athens International Airport/europe
+TXL/Berlin-Tegel International Airport/europe
+HEL/Helsinki Airport/europe
+JNB/O.R. Tambo International Airport/africa
+CAI/Cairo International Airport/africa
+CPT/Cape Town International Airport/africa
+CMN/Mohammed V International Airport/africa
+ADD/Addis Ababa Bole International Airport/africa
+ALG/Houari Boumediene Airport/africa
+NBO/Jomo Kenyatta International Airport/africa
+LOS/Murtala Muhammed International Airport/africa
+TUN/Tunis Carthage International Airport/africa
+DUR/King Shaka International Airport/africa
+PEK/Beijing Capital International Airport/asia
+DXB/Dubai International Airport) [asia
+HND/Tokyo-Haneda International Airport/asia
+HKG/Hong Kong International Airport/asia
+DEL/Indira Gandhi International Airport)asia
+ICN/Incheon International Airport/asia
+CGK/Seokarno-Hatta International Airport/asia
+SIN/Singapore Changi Airport/asia
+BKK/Suvarnabhumi Airport)/asia
+KUL/Kuala Lumpur International Airport/asia
+TPE/Taiwan Taoyuan International Airport)sia
+MNL/Ninoy Aquino International Airport/asia
+JED/King Abdulaziz International Airport/asia
+SGN/Tan Son Nhat International Airport/asia
+DOH/Hamad International Airport/asia
+SYD/Sydney Airport/oce/asia
+MEL/Melbourne Airport/oceania
+AKL/Auckland Airport/oceania
+NAN/Nadi International Airport/oceania
+POM/Jacksons International Airport/oceania
